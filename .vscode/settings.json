@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\wilhe\\Miniconda3\\envs\\face_recognition\\python.exe"
+    "python.pythonPath": "C:\\Users\\wilhe\\Miniconda3\\envs\\face_recognition\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pep8Enabled": false,
+    "python.linting.pylamaEnabled": true
 }
